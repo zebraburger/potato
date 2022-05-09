@@ -5,3 +5,4 @@ age += 5
 print (age)
 age =+ 5
 print (age)
+uu=2
